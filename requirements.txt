@@ -6,4 +6,4 @@ langchain-huggingface
 pinecone
 langchain-pinecone
 pinecone-notebooks
-install langchain-groq
+langchain-groq
