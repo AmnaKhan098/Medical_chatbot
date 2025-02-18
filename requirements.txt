@@ -1,0 +1,9 @@
+# install required libraries
+pypdf
+langchain_community
+langchain-text-splitters
+langchain-huggingface
+pinecone
+langchain-pinecone
+pinecone-notebooks
+install langchain-groq
