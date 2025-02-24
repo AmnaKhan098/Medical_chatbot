@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 .shona/
+.env/
+data/
 downloads/
 eggs/
 .eggs/
