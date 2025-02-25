@@ -1,5 +1,7 @@
 # adding data in our database
 from langchain_pinecone import PineconeVectorStore
+from dotenv import load_dotenv
+load_dotenv()
 
 def add_data(texts,embeddingModel,index_name='medicalchatbot'):
     medical=PineconeVectorStore.from_documents(texts, embeddingModel ,index_name='medicalchatbot')
