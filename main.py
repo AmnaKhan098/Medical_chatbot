@@ -18,11 +18,8 @@ async def main():
     retrived=retriver(loaded_data)
     print("chain")
     chain=model(retrived)
-    # asking questions
-    answer=chain.invoke({"input": "what are the symptoms of fever?"})
-    return answer
-
-asyncio.run(main())  #  Runs the async function  
+    return chain 
+     
 
 
 
