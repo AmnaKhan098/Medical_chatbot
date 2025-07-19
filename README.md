@@ -59,6 +59,7 @@ The chatbot will respond with general medical advice based on its training.
 
 ---
 📁 Project Structure
+
 medical-chatbot/
 │
 ├── app.py               # Main application logic
@@ -68,7 +69,11 @@ medical-chatbot/
 ├── data/                # Training or knowledge base (optional)
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
-📌 Future Improvements
+
+---
+
+## 📌 Future Enhancements
+
 Add support for multilingual queries
 
 Integrate with medical APIs (e.g., MedlinePlus, Infermedica)
@@ -76,13 +81,19 @@ Integrate with medical APIs (e.g., MedlinePlus, Infermedica)
 Add patient triage scoring based on symptoms
 
 Improve safety and misinformation handling using medical validators
+---
 
 🤝 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 ---
-📄 License
+
+## 📄 License
+
 This project is licensed under the MIT License.
 ---
-🙋‍♀️ Contact
+
+## 🙋‍♀️ Contact
+
 Created by Amna Khan
 Feel free to reach out for collaborations or feedback.
