@@ -41,7 +41,8 @@ pip install -r requirements.txt
 # Run the chatbot
 python app.py
 
-🧪 Usage
+---
+## 🧪 Usage
 Run the app using the command above.
 
 Ask health-related questions like:
@@ -56,7 +57,7 @@ The chatbot will respond with general medical advice based on its training.
 
 ⚠️ Disclaimer: This chatbot is not a substitute for professional medical diagnosis or treatment. Always consult a certified healthcare provider for serious concerns.
 
-
+---
 📁 Project Structure
 medical-chatbot/
 │
@@ -78,10 +79,10 @@ Improve safety and misinformation handling using medical validators
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
+---
 📄 License
 This project is licensed under the MIT License.
-
+---
 🙋‍♀️ Contact
 Created by Amna Khan
 Feel free to reach out for collaborations or feedback.
